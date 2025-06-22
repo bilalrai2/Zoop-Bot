@@ -21,10 +21,10 @@ ZOOP BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/3Dos-BOT.git
+   git clone https://github.com/bilalrai2/Zoop-Bot.git
    ```
    ```bash
-   cd 3Dos-BOT
+   cd Zoop-Bot
    ```
 
 2. **Install Requirements:**
